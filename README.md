@@ -8,6 +8,7 @@ Here is a full list:
 - `02-thread-vs-process` - Compares multithreading and multiprocessing shared memory.
 - `03-daemon-no-daemon` - Compares daemon tasks and non-daemon tasks.
 - `04-in-memory-event-thread-queue` - A producer-consumer pattern queue with an event to stop both producer and consumer.
+- `05-monad` - Simple MaybeMonad and ErrorMonad pattern in Python.
 ## Development
 
 `Python>=3.10`
